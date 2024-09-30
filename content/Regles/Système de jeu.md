@@ -45,7 +45,7 @@ Chaque Dé est considéré comme étant un succès si sa valeur est de 6 ou sup�
 > Réussite normale :
 > 
 > ![[reussite_classique.png]] Dans ce cas il y a 1 réussite critique classique, 1 échec classique, 1 échec de soif et 2 réussite de soif. Cela fait un total de 3 réussite ce qui permet de passer le test. Même si il y a la présence d'une réussite critique, comme le dé est seul il ne compte que pour une seule réussite.
-> _
+>  
 > ![[reussite_moins_classique.png]] De la même manière, même si il y a la présence d'une réussite critique de sang, comme elle est seule elle ne compte que pour une réussite et n'a pas d'autre impacte sur le jet.
 > ---
 > Triomphe brutal :
