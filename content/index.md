@@ -1,9 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Bienvenu dans cette campagne de Vampire la mascarade
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Ceci est le site internet créé dans le cadre de la chronique : Soulèvement de Paris.
 
-
-Je marque un truc
+Dans ce site internet vous pourrez explorer les [[Regles]], les différents [[Personnages]] de la campagne, avoir plus d'informations sur le [[Monde]] de la nuit dans Paris ainsi qu'un récapitulatif des différentes [[Sessions]] réalisées.

@@ -1,0 +1,2 @@
+Dans cette section vous trouverez tout ce qui est en lien avec les règles du jeu de rôle Vampire : La Mascarade.
+Que cela soit le [[Système de jeu]] ou plus spécifiquement les différentes [[Caractéristiques]] associées aux personnages que vous incarnerez, leurs [[Disciplines]] ou le pouvoir de leur [[Sang]] si particulier. 
