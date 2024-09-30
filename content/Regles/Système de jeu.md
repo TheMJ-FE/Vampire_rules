@@ -49,7 +49,9 @@ Chaque Dé est considéré comme étant un succès si sa valeur est de 6 ou sup�
 >  |
 > ![[reussite_moins_classique.png]] 
 > De la même manière, même si il y a la présence d'une réussite critique de sang, comme elle est seule elle ne compte que pour une réussite et n'a pas d'autre impacte sur le jet.
+> 
 > ---
+> 
 > Triomphe brutal :
 > 
 > ![[triomphe_brutal.png]] 
@@ -57,7 +59,9 @@ Chaque Dé est considéré comme étant un succès si sa valeur est de 6 ou sup�
 > |
 > ![[triomphe_brutal_2.png]] 
 > Dans ce cas là même si il y a la présence de deux réussites critiques classiques, la réussite critique du dé de sang a toujours la priorité. De fait le résultat est le même que sur la situation précédente avec 6 réussites impliquant un triomphe brutal.
+> 
 > ---
+> 
 > Echec bestial :
 > 
 > Il n'y a échec bestial que si le résultat du jet est un échec. 
