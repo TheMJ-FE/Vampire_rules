@@ -44,23 +44,28 @@ Chaque Dé est considéré comme étant un succès si sa valeur est de 6 ou sup�
 > ---
 > Réussite normale :
 > 
-> ![[reussite_classique.png]] Dans ce cas il y a 1 réussite critique classique, 1 échec classique, 1 échec de soif et 2 réussite de soif. Cela fait un total de 3 réussite ce qui permet de passer le test. Même si il y a la présence d'une réussite critique, comme le dé est seul il ne compte que pour une seule réussite.
->  
-> ![[reussite_moins_classique.png]] De la même manière, même si il y a la présence d'une réussite critique de sang, comme elle est seule elle ne compte que pour une réussite et n'a pas d'autre impacte sur le jet.
+> ![[reussite_classique.png]] 
+> Dans ce cas il y a 1 réussite critique classique, 1 échec classique, 1 échec de soif et 2 réussite de soif. Cela fait un total de 3 réussite ce qui permet de passer le test. Même si il y a la présence d'une réussite critique, comme le dé est seul il ne compte que pour une seule réussite.
+>  |
+> ![[reussite_moins_classique.png]] 
+> De la même manière, même si il y a la présence d'une réussite critique de sang, comme elle est seule elle ne compte que pour une réussite et n'a pas d'autre impacte sur le jet.
 > ---
 > Triomphe brutal :
 > 
-> ![[triomphe_brutal.png]] Dans ce cas il y a 1 réussite critique classique, 1 réussite classique, 1 échec de soif, 1 réussite de soif et 1 réussite critique de soif. Puis qu'il y a la présence de deux réussites critiques le nombre de réussite du jet est de 6 (2 réussites normales et 4 réussites critiques). Puisque l'une des réussites critiques provient d'un dé de soif, alors le test est considéré comme un triomphe brutal et bien que l'action soit une réussite, la manière de procéder n'est pas vraiment celle envisagée.
-> _
-> ![[triomphe_brutal_2.png]] Dans ce cas là même si il y a la présence de deux réussites critiques classiques, la réussite critique du dé de sang a toujours la priorité. De fait le résultat est le même que sur la situation précédente avec 6 réussites impliquant un triomphe brutal.
+> ![[triomphe_brutal.png]] 
+> Dans ce cas il y a 1 réussite critique classique, 1 réussite classique, 1 échec de soif, 1 réussite de soif et 1 réussite critique de soif. Puis qu'il y a la présence de deux réussites critiques le nombre de réussite du jet est de 6 (2 réussites normales et 4 réussites critiques). Puisque l'une des réussites critiques provient d'un dé de soif, alors le test est considéré comme un triomphe brutal et bien que l'action soit une réussite, la manière de procéder n'est pas vraiment celle envisagée.
+> |
+> ![[triomphe_brutal_2.png]] 
+> Dans ce cas là même si il y a la présence de deux réussites critiques classiques, la réussite critique du dé de sang a toujours la priorité. De fait le résultat est le même que sur la situation précédente avec 6 réussites impliquant un triomphe brutal.
 > ---
 > Echec bestial :
 > 
 > Il n'y a échec bestial que si le résultat du jet est un échec. 
 > 
 > ![[reussite_pas_si_critique.png]] De fait, ce jet qui est un succès car il a 5 réussites pour une difficulté de 3 n'est en rien affecté par la présence du 1 d'un des dés de soif.
->_
-> ![[echec_bestial.png]] Ce jet par contre qui n'a que 2 réussites est considéré comme un échec bestial et l'action entreprise échoue d'une manière spectaculaire.
+>|
+> ![[echec_bestial.png]] 
+> Ce jet par contre qui n'a que 2 réussites est considéré comme un échec bestial et l'action entreprise échoue d'une manière spectaculaire.
 
 
 # Actions multiples
