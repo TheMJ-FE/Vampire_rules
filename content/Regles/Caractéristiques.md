@@ -38,7 +38,7 @@ de Volonté aggravés. Cependant, les autres conséquences du fait d’avoir per
 Le conteur décide à quelle jauge le conflit inflige des dégâts. Normalement, un conflit physique inflige des dégâts à la santé et un conflit social inflige des dégâts à la Volonté.
 Le gagnant de chaque jet en opposition convertit sa marge de réussites en dégâts infligés à la jauge concernée chez le perdant.
 Les dégâts superficiels sont réduit de moitié (arrondit au supérieur) contrairement aux dégâts aggravés. 
-Chaque dégât superficiel est noté par / et chaque dégâts aggravés est noté par un X. Lorsque toute la jauge est remplie de dégâts superficiels alors le personnage ne reçoit que des dégâts aggravés.
+Chaque dégât superficiel est noté par / ou ◑ et chaque dégâts aggravés est noté par un X ou ⚈. Lorsque toute la jauge est remplie de dégâts superficiels alors le personnage ne reçoit que des dégâts aggravés.
 
 ### Affaiblissement
 Lorsque le personnage a subi suffisamment de dégâts (superficiels, aggravés ou un mélange des deux) pour remplir une jauge, il est Affaibli. Si un personnage est Affaibli, le joueur doit retirer deux dés à tous les pool de dés concernés par son état : physiques pour une santé affaiblie, sociaux et mentaux pour une Volonté affaiblie.

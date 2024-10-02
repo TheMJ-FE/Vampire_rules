@@ -2,7 +2,7 @@ Vous retrouverez ici des informations plus ou moins détaillées sur les différ
 
 ### Joueurs
 - [[Chloé]]
-- [[Daniel]]
+- [[Elise Brightshade (Daniel)]]
 - [[Karen]]
 - [[Lucas]]
 - [[Pierre]]
