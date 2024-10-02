@@ -1,2 +1,5 @@
 Ici se trouve toutes les informations du monde de la chronique.
-Vous pourrez en apprendre ainsi un peu plus sur les [[Lieux]] visités.
+Vous pourrez en apprendre ainsi un peu plus sur les [[Lieux]] visités comme : 
+- ...
+Ainsi que sur les [[Organisations]] rencontrées :
+- ...
