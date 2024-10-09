@@ -25,17 +25,17 @@ Elle a depuis sa plus tendre enfance toujours baignée dans le milieu de la pèg
 | ⚈⚈⚈⚈ | ⚈⚈⚈ |
 
 # Compétence
-| Compétence | Niveau | Compétence | Niveau | Compétence | Niveau |
-| - | - | - | - | - | - |
-| Arme à feu |  | Animaux |  | Erudition |  |
-| Artisanat |  | Commandement | ⚈⚈ | Finances | ⚈⚈⚈ |
-| Athlétisme | ⚈ | Empathie | ⚈ | Investigation | ⚈⚈ |
-| Bagarre |  | Etiquette | ⚈⚈⚈ | Médecine |  |
-| Conduite |  | Exp de la rue |  | Occultisme |  |
-| Furtivité |  | Intimidation | ⚈⚈⚈ | Politique | ⚈⚈ |
-| Larcin | ⚈ | Persuasion | ⚈ | Science |  |
-| Mélée |  | Représentation |  | Technologie |  |
-| Survie |  | Subterfuge (séduction) | ⚈⚈ | Vigilance | ⚈ |
+| Compétence | Niveau | Compétence             | Niveau | Compétence    | Niveau |
+| ---------- | ------ | ---------------------- | ------ | ------------- | ------ |
+| Arme à feu |        | Animaux                |        | Erudition     |        |
+| Artisanat  |        | Commandement           | ⚈⚈     | Finances      | ⚈⚈⚈    |
+| Athlétisme | ⚈      | Empathie               | ⚈      | Investigation | ⚈⚈     |
+| Bagarre    |        | Etiquette              | ⚈⚈⚈    | Médecine      |        |
+| Conduite   |        | Exp de la rue          |        | Occultisme    |        |
+| Furtivité  |        | Intimidation           | ⚈⚈⚈    | Politique     | ⚈⚈     |
+| Larcin     | ⚈      | Persuasion             | ⚈      | Science       |        |
+| Mélée      |        | Représentation         |        | Technologie   |        |
+| Survie     |        | Subterfuge (séduction) | ⚈⚈     | Vigilance     | ⚈      |
 
 # Disciplines
 | |  | |  | |  |
