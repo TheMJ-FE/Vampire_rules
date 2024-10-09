@@ -4,7 +4,7 @@ Elle a depuis sa plus tendre enfance toujours baignée dans le milieu de la pèg
 - Race : Humaine
 - Attaches : 
 	- Un peintre dont les tableaux rappellent à Elise sont enfance
-	- Un des reines de la pègre de Paris
+	- Une des reines de la pègre de Paris
 - Convictions : 
 	- La recherche du pouvoir justifie tout
 	- Œil pour œil 
@@ -46,8 +46,7 @@ Elle a depuis sa plus tendre enfance toujours baignée dans le milieu de la pèg
 # Avantages & Handicaps
 |Avantages|  | Handicaps| |
 |-|-|-|-|
-|Belle| ⚈⚈ |Adversaire| ⚈ |
-|Contact| ⚈⚈ |Amant éconduit| ⚈ |
-|Manducation| ⚈⚈ |Harceleur| ⚈ |
-|Refuge Luxueux| ⚈ |Proie Tabou : pauvres| ⚈ |
-|Ressources| ⚈⚈⚈ |||
+|Contact| ⚈ |Adversaire| ⚈ |
+|Ressources| ⚈⚈⚈ |Amant éconduit| ⚈ |
+|Splendide| ⚈⚈⚈⚈ |Harceleur| ⚈ |
+|  |  |  |  |
