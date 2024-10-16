@@ -4,7 +4,7 @@ Vous retrouverez ici des informations plus ou moins détaillées sur les différ
 - [[Béatrix De Ville (Chloé)]]
 - [[Elise Brightshade (Daniel)]]
 - [[Karen]]
-- [[Lucas]]
+- [[Finbar Fitzgerald (Lucas)]]
 - [[Pierre]]
 
 ### Non Joueurs
